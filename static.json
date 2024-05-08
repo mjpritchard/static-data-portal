@@ -14,11 +14,11 @@
       },
       "globus": {
         "application": {
-          "client_id": "fa198f1c-d1d5-407e-b2e1-67afdff1e1a9"
+          "client_id": "0ffce20f-7835-4ed2-99ae-15e2ff090413"
       },
         "transfer": {
-          "collection_id": "a6f165fa-aee2-4fe5-95f3-97429c28bf82",
-          "path": "/portal/catalog/"
+          "collection_id": "a2f53b7f-1b4e-4dce-9b7c-349ae760fee0",
+          "path": "/~/"
         }
       }
     }
